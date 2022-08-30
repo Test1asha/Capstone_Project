@@ -1,0 +1,6 @@
+Tableau Dashboard for Requirement 3 - Credit Card Details
+https://public.tableau.com/views/Dashboard-CreditCardDetails-Req3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Tableau Dashboard for Requirement 5 - Credit card Loan Application
+https://public.tableau.com/views/Dashboard-creditcardloanapplication-Req5/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
